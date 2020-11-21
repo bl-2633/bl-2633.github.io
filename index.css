@@ -1,0 +1,33 @@
+
+.navbar {
+    padding-left: 7vw;
+    font-size: 120%;
+}
+.navbar-brand {
+    font-size: 150%;
+}
+.home {
+    height: 100%;
+    padding-top: 10vh;
+    padding-bottom: 20vh;
+}
+.footer {
+    z-index: 1;
+    position: fixed;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+.footer p {
+    color: black;
+    margin-bottom: 5px;
+}
+.container {
+    padding-top: 8vh;
+}
+.fake-img {
+    height: 500px;
+    width: 300px;
+    background-color: grey;
+}
