@@ -23,11 +23,20 @@
     color: black;
     margin-bottom: 5px;
 }
-.container {
+.mycontainer {
     padding-top: 8vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
 }
 .fake-img {
     height: 500px;
     width: 300px;
     background-color: grey;
+}
+.contact a {
+    color: grey;
+    vertical-align: middle;
+}
+.contact a:hover {
+    color: cornflowerblue;
 }
